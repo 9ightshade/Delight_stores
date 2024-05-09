@@ -6,8 +6,8 @@
 </head>
 
 <body>
-<h1>Delight e-commerce store</h1>
-<p>More...</p>
+<h1 style="color:blue" >Delight e-commerce store</h1>
+<a href="" >More...</a>
 </body
 >
 </html>
